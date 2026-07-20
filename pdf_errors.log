@@ -1,0 +1,10 @@
+[24-Jul-2025 06:18:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'education&course.qualifications' doesn't exist in C:\xampp\htdocs\E&C\save_pdf.php:44
+Stack trace:
+#0 C:\xampp\htdocs\E&C\save_pdf.php(44): mysqli_query(Object(mysqli), 'SELECT \r\n      ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\E&C\save_pdf.php on line 44
+[24-Jul-2025 06:18:13 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'education&course.qualifications' doesn't exist in C:\xampp\htdocs\E&C\save_pdf.php:44
+Stack trace:
+#0 C:\xampp\htdocs\E&C\save_pdf.php(44): mysqli_query(Object(mysqli), 'SELECT \r\n      ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\E&C\save_pdf.php on line 44

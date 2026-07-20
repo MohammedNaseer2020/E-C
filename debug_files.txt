@@ -1,0 +1,13 @@
+Array
+(
+    [reference] => Array
+        (
+            [name] => ___114146.pdf
+            [full_path] => ___114146.pdf
+            [type] => application/pdf
+            [tmp_name] => C:\xampp\tmp\php77E6.tmp
+            [error] => 0
+            [size] => 40280
+        )
+
+)

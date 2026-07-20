@@ -1,0 +1,7 @@
+Array
+(
+    [id] => 24
+    [military_number] => 
+    [result] => 100
+    [mention] => ممتاز
+)
