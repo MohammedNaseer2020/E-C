@@ -1,0 +1,7 @@
+add-migration compositekey
+
+Update-Database
+
+
+
+Scaffold-DbContext "Data Source=.\SQLEXPRESS;Database=JocC;Trusted_Connection=True;MultipleActiveResultSets=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force
